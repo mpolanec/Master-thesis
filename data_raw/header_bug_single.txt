@@ -1,0 +1,23 @@
+@RELATION FILE_NAME
+
+@ATTRIBUTE cbo  NUMERIC
+@ATTRIBUTE dit  NUMERIC
+@ATTRIBUTE fanIn  NUMERIC
+@ATTRIBUTE fanOut  NUMERIC
+@ATTRIBUTE lcom  NUMERIC
+@ATTRIBUTE noc  NUMERIC
+@ATTRIBUTE numberOfAttributes  NUMERIC
+@ATTRIBUTE numberOfAttributesInherited  NUMERIC
+@ATTRIBUTE numberOfLinesOfCode  NUMERIC
+@ATTRIBUTE numberOfMethods  NUMERIC
+@ATTRIBUTE numberOfMethodsInherited  NUMERIC
+@ATTRIBUTE numberOfPrivateAttributes  NUMERIC
+@ATTRIBUTE numberOfPrivateMethods  NUMERIC
+@ATTRIBUTE numberOfPublicAttributes  NUMERIC
+@ATTRIBUTE numberOfPublicMethods  NUMERIC
+@ATTRIBUTE rfc  NUMERIC
+@ATTRIBUTE wmc  NUMERIC
+@ATTRIBUTE bug   {0, 1}
+
+@DATA
+

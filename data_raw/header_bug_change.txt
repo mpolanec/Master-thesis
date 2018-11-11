@@ -1,0 +1,21 @@
+@RELATION FILE_NAME
+
+@ATTRIBUTE numberOfVersionsUntil  NUMERIC
+@ATTRIBUTE numberOfFixesUntil   NUMERIC
+@ATTRIBUTE numberOfRefactoringsUntil  NUMERIC
+@ATTRIBUTE umberOfAuthorsUntil   NUMERIC
+@ATTRIBUTE linesAddedUntil   NUMERIC
+@ATTRIBUTE maxLinesAddedUntil   NUMERIC
+@ATTRIBUTE avgLinesAddedUntil   NUMERIC
+@ATTRIBUTE linesRemovedUntil   NUMERIC
+@ATTRIBUTE maxLinesRemovedUntil   NUMERIC
+@ATTRIBUTE avgLinesRemovedUntil   NUMERIC
+@ATTRIBUTE codeChurnUntil   NUMERIC
+@ATTRIBUTE maxCodeChurnUntil   NUMERIC
+@ATTRIBUTE avgCodeChurnUntil   NUMERIC
+@ATTRIBUTE weightedAgeWithRespectTo   NUMERIC
+@ATTRIBUTE ageWithRespectTo   NUMERIC
+@ATTRIBUTE bug   {0, 1}
+
+@DATA
+

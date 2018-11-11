@@ -1,0 +1,3 @@
+1. V mapo lib (ki jo ustvariš), dodaj datoteko weka.jar
+2. Odpri projekt v IntelliJ Idea (po potrebi dodaj novo referenco na weka.jar)
+3. Za zagon poljubnega eksperimenta zaženi ustrezni class iz main packega (si.um.feri.mag.polanec.main), classi se zaènejo z "RunExperiment...".
